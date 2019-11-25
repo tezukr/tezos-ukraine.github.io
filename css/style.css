@@ -2163,8 +2163,13 @@ nav a#pull {
 	color: #fff;
 }
 
+/* Custom */
 .rotate-90 {
 	transform: rotate(-90deg);
 }
 
-
+/* Custom */
+.team_members_wrapper {
+  display: flex;
+	flex-wrap: wrap;
+}
