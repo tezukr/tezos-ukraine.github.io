@@ -2173,3 +2173,22 @@ nav a#pull {
   display: flex;
 	flex-wrap: wrap;
 }
+
+/* ==========================================================================
+   23. INFRASTRUCTURE
+   ========================================================================== */
+.infrastructure-text {
+	padding: 0px 100px 0px 100px !important;
+}
+.infrastructure-text {
+	list-style: none;
+}
+.infrastructure-text li {
+	padding-left: 20px;
+}
+.infrastructure-title {
+	margin-bottom: 20px !important;
+}
+#infrastructure {
+	padding-bottom: 40px;
+}
